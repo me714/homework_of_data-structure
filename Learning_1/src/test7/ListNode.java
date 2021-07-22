@@ -1,4 +1,4 @@
-package test6;
+package test7;
 
 public class ListNode {
     int val;
@@ -24,5 +24,6 @@ public class ListNode {
         res.append("NULL");
         return res.toString();
     }
-    }
+}
+
 
